@@ -615,62 +615,62 @@ time
   background-color:#bbe9e2
 }
 
-.tech
+.javascript
 {
   border-left:solid 2px #644539
 }
 
-.tech-button
+.javascript-button
 {
   background-color:#644539
 }
 
-.tech:hover
+.javascript:hover
 {
   border-left:solid 2px #F4A273
 }
 
-.tech-button:hover
+.javascript-button:hover
 {
   background-color:#F4A273
 }
 
-.misc
+.haskell
 {
   border-left:solid 2px #9e9599
 }
 
-.misc-button
+.haskell-button
 {
   background-color:#9e9599
 }
 
-.misc:hover
+.haskell:hover
 {
   border-left:solid 2px #cfe0ea
 }
 
-.misc-button:hover
+.haskell-button:hover
 {
   background-color:#cfe0ea
 }
 
-.podcasts
+.clojure
 {
   border-left:solid 2px #387b94
 }
 
-.podcasts-button
+.clojure-button
 {
   background-color:#387b94
 }
 
-.podcasts:hover
+.clojure:hover
 {
   border-left:solid 2px #2FD0EF
 }
 
-.podcasts-button:hover
+.clojure-button:hover
 {
   background-color:#2FD0EF
 }
