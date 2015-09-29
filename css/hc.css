@@ -76,12 +76,12 @@ p
   transition:all .5s ease 0
 }
 
-.navbar 
+.navbar
 {
   display: none;
 }
 
-.navbar a 
+.navbar a
 {
   text-decoration: none;
   border-bottom: 1px #b1b1b1 solid;
@@ -575,42 +575,42 @@ time
   text-shadow:1px 1px #fff
 }
 
-.fashion
+.swift
 {
   border-left:solid 2px #bc0005
 }
 
-.fashion-button
+.swift-button
 {
   background-color:#bc0005
 }
 
-.fashion:hover
+.swift:hover
 {
   border-left:solid 2px #f40006
 }
 
-.fashion-button:hover
+.swift-button:hover
 {
   background-color:#f40006
 }
 
-.programming
+.objective-c
 {
   border-left:solid 2px #7dbcb2
 }
 
-.programming-button
+.objective-c-button
 {
   background-color:#7dbcb2
 }
 
-.programming:hover
+.objective-c:hover
 {
   border-left:solid 2px #bbe9e2
 }
 
-.programming-button:hover
+.objective-c-button:hover
 {
   background-color:#bbe9e2
 }
@@ -715,7 +715,7 @@ time
 .inset {
   padding: 15px;
 }
-.navbar 
+.navbar
 {
   display: inherit;
   background-color: #ededed;
@@ -726,7 +726,7 @@ time
 
 @media screen and (max-width: 500px) {
   #welcome-greeting h2 {
-   font-size: 15px; 
+   font-size: 15px;
    transition: all 0.2s ease 0s;
    font-weight: 200;
    line-height: 30px;
